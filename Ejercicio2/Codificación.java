@@ -1,5 +1,3 @@
-## Ejercicio2
-
 public class Bienvenida {
 
     public void mostrarBienvenida(String nombre, int edad) {
