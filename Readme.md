@@ -12,7 +12,7 @@
 
 ## 🎯 Objetivo
 
-Aplicar los fundamentos de la **Programación Orientada a Objetos (POO)** mediante el desarrollo de un programa, utilizando clases, atributos, métodos y objetos para organizar el código de manera estructurada, comprensible y reutilizable.
+Desarrollar habilidades en la creación de métodos en Java, identificando los tipos de retorno, utilizando parámetros y aplicando la instrucción return para realizar cálculos y obtener resultados mediante la programación orientada a objetos.
 
 ## 👥 Integrantes
 
