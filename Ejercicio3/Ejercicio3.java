@@ -1,4 +1,4 @@
-public double multiplicar(double x, double y) {
+public double Ejercicio3(double x, double y) {
     return x * y;
 }
 
